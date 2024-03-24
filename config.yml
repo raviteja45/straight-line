@@ -21,7 +21,7 @@ languages:
         weight: 1
         menu:
             main:
-                - name: abcd@gmail.com
+                - name: test@gmail.com
                   weight: 10
 outputs:
     home:
