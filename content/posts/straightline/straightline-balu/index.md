@@ -5,7 +5,7 @@ date: 2021-01-20
 weight: 2
 aliases: 
 tags:
-author: "P"
+author: "Pavan"
 ---
 
 ![regular](images/sirivennela.jpeg)
